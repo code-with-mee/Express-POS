@@ -1,0 +1,231 @@
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.exe.config
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.exe
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.pdb
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csprojResolveAssemblyReference.cache
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmAddStock.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmAuthentication.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCategories.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmChangePassword.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCurrentStock.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCustomersList.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmDashboard.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExpenceOverhead.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportCustomer.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportProduct.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportSupplier.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGeneralConfiguration.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGiftItem.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGiftItemList.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmHoldInvoiceList.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportCustomer.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportProduct.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportSupplier.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmInvoiceList.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageEmployee.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageExpences.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageTables.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageTax.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageUsers.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmMDIParent.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmNewCustomer.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmNewSupplier.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPayment.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPointOfSales.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPosOption.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintBarcode.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintSaleInvoice.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintSaleReceipt.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmProductInformation.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmProductList.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReportExpencesView.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReportView.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReturnStock.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSalesGift.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSalesReturn.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSupplierList.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmTableDiagram.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Properties.Resources.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Customer.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Employee.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Expences.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Product.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Sales.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_SalesReturn.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_StockMovement.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Supplier.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_TAX.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Customer.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Employee.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Expences.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Product.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_ReturnInvoice.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Sales.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_SalesReturn.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_StockMovement.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Supplier.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_TAX.resources
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.GenerateResource.Cache
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\RdlCompile.cache
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.exe
+C:\Users\LinkBird\Desktop\ExpressPOS\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.pdb
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmAddStock.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmAuthentication.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCategories.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmChangePassword.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCurrentStock.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCustomersList.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmDashboard.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExpenceOverhead.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportCustomer.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportProduct.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportSupplier.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGeneralConfiguration.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGiftItem.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGiftItemList.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmHoldInvoiceList.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportCustomer.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportProduct.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportSupplier.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmInvoiceList.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageEmployee.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageExpences.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageTables.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageTax.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageUsers.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmMDIParent.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmNewCustomer.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmNewSupplier.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPayment.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPointOfSales.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPosOption.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintBarcode.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintSaleInvoice.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintSaleReceipt.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmProductInformation.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmProductList.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReportExpencesView.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReportView.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReturnStock.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSalesGift.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSalesReturn.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSupplierList.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmTableDiagram.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Properties.Resources.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Customer.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Employee.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Expences.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Product.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Sales.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_SalesReturn.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_StockMovement.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Supplier.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_TAX.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Customer.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Employee.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Expences.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Product.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_ReturnInvoice.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Sales.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_SalesReturn.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_StockMovement.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Supplier.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_TAX.resources
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.exe
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.pdb
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.exe.config
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.exe
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.pdb
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Downloads\PurchaseCode\PurchaseCode\codecanyon-21886569-expresspos-stock-manager-with-point-of-sale\ExpressPOS\Source File\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.exe.config
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.exe
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\ExpressPOS.pdb
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.AssemblyReference.cache
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmAddStock.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmAuthentication.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCategories.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmChangePassword.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCurrentStock.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmCustomersList.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmDashboard.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExpenceOverhead.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportCustomer.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportProduct.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmExportSupplier.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGeneralConfiguration.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGiftItem.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmGiftItemList.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmHoldInvoiceList.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportCustomer.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportProduct.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmImportSupplier.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmInvoiceList.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageEmployee.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageExpences.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageTables.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageTax.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmManageUsers.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmMDIParent.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmNewCustomer.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmNewSupplier.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPayment.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPointOfSales.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPosOption.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintBarcode.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintSaleInvoice.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmPrintSaleReceipt.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmProductInformation.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmProductList.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReportExpencesView.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReportView.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmReturnStock.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSalesGift.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSalesReturn.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmSupplierList.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.frmTableDiagram.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Properties.Resources.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Customer.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Employee.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Expences.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Product.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Sales.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_SalesReturn.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_StockMovement.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_Supplier.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.frm_R_TAX.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Customer.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Employee.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Expences.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Product.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_ReturnInvoice.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Sales.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_SalesReturn.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_StockMovement.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_Supplier.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.Report.ReportViewer.frm_Rv_TAX.resources
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.GenerateResource.cache
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.CoreCompileInputs.cache
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.csproj.CopyComplete
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.exe
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\obj\x86\Debug\ExpressPOS.pdb
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\SqlServerSpatial160.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Downloads\numberoneplus-expresspos-935029749632\numberoneplus-expresspos-935029749632\ExpressPOS\ExpressPOS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
